@@ -1,0 +1,14 @@
+inscription
+connexion
+initialisation boutique
+création employé
+gestion planning
+reservation
+relance mail/sms
+validation création compte avec mail/sms
+
+base de donnée mongo pour les code de réduction
+
+
+création worker : possibilité plusieurs entreprise donc manytomany !
+mise en place de la création d'adresse model !
